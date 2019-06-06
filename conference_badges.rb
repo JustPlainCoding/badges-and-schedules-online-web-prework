@@ -11,7 +11,7 @@ end
 def assign_rooms(speekers)
   room_assignments = []
   speekers.each_with_index{|speeker, index| room_assignments << "Hello, #{speeker}! You'll be assigned to room #{index}!"}
-  room_assignmentsc
+  room_assignments
 end
 
 def printer
