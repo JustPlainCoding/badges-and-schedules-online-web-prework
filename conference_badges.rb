@@ -1,4 +1,5 @@
-def badge_maker
+def badge_maker(name)
+  puts
 end
 
 def batch_badge_creator
@@ -7,5 +8,5 @@ end
 def assign_rooms
 end
 
-def 
+def printer
 end
